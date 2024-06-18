@@ -1,7 +1,27 @@
--- @description toggle action list
--- @author matharel
--- @version 1.1
--- @about
+--[[
+ * ReaScript Name: Toggle action list
+ * Description: 
+ * Instructions: Run
+ * Screenshot:
+ * Author: unknown
+ * Author URI: 
+ * Repository: 
+ * Repository URI: 
+ * File URI: 
+ * Licence: GPL v3
+ * Forum Thread: 
+ * Forum Thread URI: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 1.0
+--]]
+ 
+--[[
+ * Changelog:
+ * v1.0 (2016-01-29)
+	+ Initial Release
+--]]
+
 
 -- je ne me rappelle plus où j'ai trouvé ce script
 -- probablement sur le forum.

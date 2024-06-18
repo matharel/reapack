@@ -1,8 +1,27 @@
--- @description move cursor middle of arrangement
--- @author matharel
--- @version 1.1
--- @about
---
+--[[
+ * ReaScript Name: Move Cursor to Middle of Arrange View
+ * Description: 
+ * Instructions: Run
+ * Screenshot:
+ * Author: matharel
+ * Author URI: 
+ * Repository: 
+ * Repository URI: 
+ * File URI: 
+ * Licence: GPL v3
+ * Forum Thread: 
+ * Forum Thread URI: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 1.0
+--]]
+ 
+--[[
+ * Changelog:
+ * v1.0 (2016-01-29)
+	+ Initial Release
+--]]
+
 
 
 -- Fonction pour déplacer le curseur d'édition au milieu de la vue d'arrangement

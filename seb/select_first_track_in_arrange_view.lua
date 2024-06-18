@@ -1,7 +1,27 @@
--- @description select first track in arrange view
--- @author matharel
--- @version 1.1
--- @about
+--[[
+ * ReaScript Name: Select first track in arrange view
+ * Description: 
+ * Instructions: Run
+ * Screenshot:
+ * Author: matharel
+ * Author URI: 
+ * Repository: 
+ * Repository URI: 
+ * File URI: 
+ * Licence: GPL v3
+ * Forum Thread: 
+ * Forum Thread URI: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 1.0
+--]]
+ 
+--[[
+ * Changelog:
+ * v1.0 (2016-01-29)
+	+ Initial Release
+--]]
+
 
 function Msg(msg)
     reaper.ShowConsoleMsg(msg)

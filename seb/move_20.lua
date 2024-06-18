@@ -1,8 +1,27 @@
--- @description move cursor 20
--- @author matharel
--- @version 1.1
--- @about
---
+--[[
+ * ReaScript Name: Move 20
+ * Description: 
+ * Instructions: Run
+ * Screenshot:
+ * Author: matharel
+ * Author URI: 
+ * Repository: 
+ * Repository URI: 
+ * File URI: 
+ * Licence: GPL v3
+ * Forum Thread: 
+ * Forum Thread URI: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 1.0
+--]]
+ 
+--[[
+ * Changelog:
+ * v1.0 (2016-01-29)
+	+ Initial Release
+--]]
+
 
 -- Inclure le fichier contenant la fonction principale
 dofile("/home/sebastien/.config/REAPER/Scripts/seb/move_cursor_function.lua")

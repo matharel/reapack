@@ -1,11 +1,5 @@
--- @description redo track selection
--- @author matharel
--- @version 1.1
--- @about
---
-
 --[[
-* ReaScript Name: 
+* ReaScript Name: Redo track selection
 * Description: 
 * Instructions: Run
 * Screenshot: 

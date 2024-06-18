@@ -1,7 +1,27 @@
--- @description scroll track top of arrange view
--- @author matharel
--- @version 1.1
--- @about
+--[[
+ * ReaScript Name: Scroll track top of arrange view
+ * Description: 
+ * Instructions: Run
+ * Screenshot:
+ * Author: matharel
+ * Author URI: 
+ * Repository: 
+ * Repository URI: 
+ * File URI: 
+ * Licence: GPL v3
+ * Forum Thread: 
+ * Forum Thread URI: 
+ * REAPER: 5.0
+ * Extensions: None
+ * Version: 1.0
+--]]
+ 
+--[[
+ * Changelog:
+ * v1.0 (2016-01-29)
+	+ Initial Release
+--]]
+
 
 -- https://forum.cockos.com/showpost.php?p=2330342&postcount=5
 -- clear console

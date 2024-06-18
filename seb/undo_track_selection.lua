@@ -1,10 +1,5 @@
--- @description undo track selection
--- @author matharel
--- @version 1.1
--- @about
-
 --[[
- * ReaScript Name: 
+ * ReaScript Name: Undo track selection
  * Description: 
  * Instructions: Run
  * Screenshot: 
