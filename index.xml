@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Matharel" commit="2ad7b2ac83c9c9c583601c9a52bfa16414051716">
+<index version="1" name="ReaPack Matharel" commit="961a34e299750bc8785da6bfd3625e8da25f6b09">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -48,6 +48,132 @@ Markdown
       <version name="1.0" author="matharel" time="2024-06-18T09:39:41Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
         <source main="main">https://github.com/matharel/reapack/raw/2ad7b2ac83c9c9c583601c9a52bfa16414051716/seb/go_to_next_track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="goto_char.lua" type="script" desc="Go to char">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/goto_char.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_10.lua" type="script" desc="Move 10">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_10.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_20.lua" type="script" desc="Move 20">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_20.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_30.lua" type="script" desc="Move 30">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_30.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_40.lua" type="script" desc="Move 40">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_40.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_50.lua" type="script" desc="Move 50">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_50.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_60.lua" type="script" desc="Move 60">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_60.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_70.lua" type="script" desc="Move 70">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_70.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_80.lua" type="script" desc="Move 80">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_80.lua</source>
+      </version>
+    </reapack>
+    <reapack name="move_90.lua" type="script" desc="Move 90">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/move_90.lua</source>
+      </version>
+    </reapack>
+    <reapack name="moveCursorToMiddleOfArrangeView.lua" type="script" desc="Move Cursor to Middle of Arrange View">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/moveCursorToMiddleOfArrangeView.lua</source>
+      </version>
+    </reapack>
+    <reapack name="redo_track_selection.lua" type="script" desc="Redo track selection">
+      <version name="1.0" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/redo_track_selection.lua</source>
+      </version>
+    </reapack>
+    <reapack name="scroll-track-bottom-arrange-view.lua" type="script" desc="scroll track bottom of arrange view">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/scroll-track-bottom-arrange-view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="scroll-track-top-arrange-view.lua" type="script" desc="Scroll track top of arrange view">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/scroll-track-top-arrange-view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="select_bottom_track_in_arrange_view.lua" type="script" desc="select bottom track in arrange view">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/select_bottom_track_in_arrange_view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="select_first_track_in_arrange_view.lua" type="script" desc="Select first track in arrange view">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/select_first_track_in_arrange_view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="select_middle_track_in_arrange_view.lua" type="script" desc="Select middle track in arrange view">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/select_middle_track_in_arrange_view.lua</source>
+      </version>
+    </reapack>
+    <reapack name="store_selected_track.lua" type="script" desc="Store selected track">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/store_selected_track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="toggle-action-list.lua" type="script" desc="Toggle action list">
+      <version name="1.0" author="unknown" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/toggle-action-list.lua</source>
+      </version>
+    </reapack>
+    <reapack name="toggle-folder.lua" type="script" desc="Toggle Folder">
+      <version name="1.0" author="matharel" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/toggle-folder.lua</source>
+      </version>
+    </reapack>
+    <reapack name="undo_track_selection.lua" type="script" desc="Undo track selection">
+      <version name="1.0" time="2024-06-18T10:03:56Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/matharel/reapack/raw/961a34e299750bc8785da6bfd3625e8da25f6b09/seb/undo_track_selection.lua</source>
       </version>
     </reapack>
     <reapack name="X-Raym_Template basic.lua" type="script">
