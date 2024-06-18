@@ -1,3 +1,9 @@
+-- @description redo track selection
+-- @author matharel
+-- @version 1.1
+-- @about
+--
+
 --[[
 * ReaScript Name: 
 * Description: 

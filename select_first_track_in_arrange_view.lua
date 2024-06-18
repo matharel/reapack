@@ -1,3 +1,8 @@
+-- @description select first track in arrange view
+-- @author matharel
+-- @version 1.1
+-- @about
+
 function Msg(msg)
     reaper.ShowConsoleMsg(msg)
     reaper.ShowConsoleMsg("\n")

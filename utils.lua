@@ -1,3 +1,8 @@
+-- @description utils
+-- @author matharel
+-- @version 1.1
+-- @about
+
 function selectedTrack()
 
     -- Récupérer la piste sélectionnée

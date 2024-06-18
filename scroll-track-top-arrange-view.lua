@@ -1,3 +1,8 @@
+-- @description scroll track top of arrange view
+-- @author matharel
+-- @version 1.1
+-- @about
+
 -- https://forum.cockos.com/showpost.php?p=2330342&postcount=5
 -- clear console
 reaper.ShowConsoleMsg("")

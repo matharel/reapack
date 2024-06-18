@@ -1,3 +1,9 @@
+-- @description move cursor 40
+-- @author matharel
+-- @version 1.1
+-- @about
+--
+
 -- Inclure le fichier contenant la fonction principale
 dofile("/home/sebastien/.config/REAPER/Scripts/seb/move_cursor_function.lua")
 

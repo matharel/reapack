@@ -1,3 +1,8 @@
+-- @description toggle action list
+-- @author matharel
+-- @version 1.1
+-- @about
+
 -- je ne me rappelle plus où j'ai trouvé ce script
 -- probablement sur le forum.
 -- en tout cas, il fonctionne très bien

@@ -1,3 +1,8 @@
+-- @description template
+-- @author matharel
+-- @version 1.1
+-- @about
+
 --[[
  * ReaScript Name: 
  * Description: 

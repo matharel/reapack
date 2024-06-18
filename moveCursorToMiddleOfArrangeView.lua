@@ -1,3 +1,9 @@
+-- @description move cursor middle of arrangement
+-- @author matharel
+-- @version 1.1
+-- @about
+--
+
 
 -- Fonction pour déplacer le curseur d'édition au milieu de la vue d'arrangement
 function moveCursorToMiddleOfArrangeView()

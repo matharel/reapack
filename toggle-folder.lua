@@ -1,3 +1,8 @@
+-- @description toggle folder
+-- @author matharel
+-- @version 1.1
+-- @about
+
 -- toggle folder
 
 function Msg(msg)

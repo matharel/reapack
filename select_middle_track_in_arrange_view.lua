@@ -1,3 +1,8 @@
+-- @description select middle track in arrange view
+-- @author matharel
+-- @version 1.1
+-- @about
+
 --[[
 La valeur du bas du viewport est plus importante que ce que je vois sur mon écran.
 Quand j'aligne le bas d'une piste avec le bas de l'écran, j'obtiens la valeur 664. Par contre `arrangeBottom` me donne 764.

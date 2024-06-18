@@ -1,3 +1,10 @@
+-- @description goto_char
+-- @author matharel
+-- @version 1.1
+-- @about
+--
+
+reaper.ShowConsoleMsg 'Hello , voyons voir, World!'
 -- TODO:
 -- quand on sélectionne une piste non visible, ça scroll, c'est bien
 -- mais ça scroll aussi quand on sélectionne une piste visible
